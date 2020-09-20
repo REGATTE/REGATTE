@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://regatte.github.io/RESUME/">
-  <img align="left" alt="Ashok's Website" width="22px" src="" />
+  <img align="left" alt="Ashok's Website" width="22px" src="https://github.com/REGATTE/REGATTE/blob/master/website.png" />
 </a>
 
 <br />
