@@ -44,5 +44,5 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula)
-![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula)
+![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
