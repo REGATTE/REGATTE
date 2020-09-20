@@ -31,4 +31,4 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&show_icons=true&hide_border=true)
-
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula)
