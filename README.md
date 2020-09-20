@@ -31,7 +31,4 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&show_icons=true&hide_border=true)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/REGATTE/REGATTE/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 
