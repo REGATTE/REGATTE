@@ -28,10 +28,12 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ashok.kumarj@icloud.com to reach me.
-Working on a website to show all my major works:
+
+
 <a href="https://regatte.github.io/N-O-N-C-E/index.html">
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
-</a>
+</a> 
+Working on a website to show all my major works
 
 
 
