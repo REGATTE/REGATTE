@@ -1,16 +1,12 @@
 ### Hey 👋, I'm Ashok kumar
 
-<a href="www.linkedin.com/in/ashok--kumar">
-  <img align="left" alt="Ashok's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-ashok_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashok--kumar)](www.linkedin.com/in/ashok--kumar)
 
-<a href="https://www.instagram.com/regatte00/">
-  <img align="left" alt="Ashok's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Instagram Badge](https://img.shields.io/badge/-ashok_kumar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/regatte00/)](https://www.instagram.com/regatte00/)
 
-<a href="https://regatte.github.io/RESUME/">
-  <img align="left" alt="Ashok's Resume" src="https://github.com/REGATTE/REGATTE/blob/master/website.png" />
-</a>
+[![ICloud Badge](https://img.shields.io/badge/-ashok.kumarj@icloud.com-c14438?style=flat-square&logo=apple&logoColor=white&link=mailto:ashok.kumarj@icloud.com)](mailto:ashok.kumarj@icloud.com)
+
+[![Website Badge](https://img.shields.io/badge/-resume-purple?style=flat-square)](https://regatte.github.io/RESUME)
 
 <br />
 <br />
