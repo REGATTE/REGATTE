@@ -18,6 +18,16 @@
 Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering student** 🚀 from India, currently, I'm a Student working on various projets and trying to figure out stuff.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently a couch potato trying new things and trying to forge a path.
+- 🌱 I’m currently learning ROS; 
+- 🤔 My interests are with ML, Image Processing, Robotics,....;
+- 💼 I’m pursuing a Bachelor's degree in Computer Science;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via ashok.kumarj@icloud.com to reach me.
+
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -33,16 +43,6 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently a couch potato trying new things and trying to forge a path.
-- 🌱 I’m currently learning ROS; 
-- 🤔 My interests are with ML, Image Processing, Robotics,....;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ashok.kumarj@icloud.com to reach me.
-
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula)
