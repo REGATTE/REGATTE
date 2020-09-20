@@ -1,4 +1,4 @@
-### Hey 👋, I'm Ashok
+### Hey 👋, I'm Ashok kumar
 
 <a href="www.linkedin.com/in/ashok--kumar">
   <img align="left" alt="Ashok's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://regatte.github.io/RESUME/">
-  <img align="left" alt="Ashok's Website" src="https://github.com/REGATTE/REGATTE/blob/master/website.png" />
+  <img align="left" alt="Ashok's Resume" src="https://github.com/REGATTE/REGATTE/blob/master/website.png" />
 </a>
 
 <br />
@@ -17,10 +17,6 @@
 
 Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering student** 🚀 from India, currently, I'm a Student working on various projets and trying to figure out stuff.
 
-Working on a website to show all my major works:
-<a href="https://regatte.github.io/N-O-N-C-E/index.html">
-  <img align="left" alt="Ashok's Website" width="22px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
-</a>
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -32,6 +28,12 @@ Working on a website to show all my major works:
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ashok.kumarj@icloud.com to reach me.
+Working on a website to show all my major works:
+<a href="https://regatte.github.io/N-O-N-C-E/index.html">
+  <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
+</a>
+
+
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
