@@ -4,9 +4,9 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-ashok_kumar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/regatte00/)](https://www.instagram.com/regatte00/)
 
-[![ICloud Badge](https://img.shields.io/badge/-ashok.kumarj@icloud.com-c14438?style=flat-square&logo=apple&logoColor=white&link=mailto:ashok.kumarj@icloud.com)](mailto:ashok.kumarj@icloud.com)
+[![ICloud Badge](https://img.shields.io/badge/-ashok.kumarj@icloud.com-gray?style=flat-square&logo=apple&logoColor=white&link=mailto:ashok.kumarj@icloud.com)](mailto:ashok.kumarj@icloud.com)
 
-[![Website Badge](https://img.shields.io/badge/-resume-purple?style=flat-square)](https://regatte.github.io/RESUME)
+[![Website Badge](https://img.shields.io/badge/-resume-black?style=flat-square)](https://regatte.github.io/RESUME)
 
 <br />
 <br />
