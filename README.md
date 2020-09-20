@@ -35,7 +35,9 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 </a> 
 Working on a website to show all my major works
 
+____________________________________________________
 
+Knowledge:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
