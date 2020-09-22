@@ -30,6 +30,7 @@ _________________________________________________
 
 Knowledge:
 
+![OSX](https://img.shields.io/badge/-Mac_Professional-black?style=flat-square&logo=Apple)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
