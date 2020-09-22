@@ -33,7 +33,7 @@ Knowledge:
 ![OSX](https://img.shields.io/badge/-Mac_Professional-black?style=flat-square&logo=Apple)
 ![UBUNTU](https://img.shields.io/badge/-UBUNTU-purple?style=flat-square&logo=Ubuntu)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
