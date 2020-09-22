@@ -44,7 +44,8 @@ Knowledge:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat-square&logo=Arduino)
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=RaspberryPi)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
