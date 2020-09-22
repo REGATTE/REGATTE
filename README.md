@@ -29,7 +29,6 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
 </a> 
 Working on a website to show all my major works
-
 ____________________________________________________
 
 Knowledge:
