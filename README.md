@@ -20,15 +20,13 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 - 🤔 My interests are with ML, Image Processing, Robotics,....;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ashok.kumarj@icloud.com to reach me.
-
 
 <a href="https://regatte.github.io/N-O-N-C-E/index.html">
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
 </a> 
 Working on a website to show all my major works
 
-____________________________________________________
+_________________________________________________
 
 Knowledge:
 
