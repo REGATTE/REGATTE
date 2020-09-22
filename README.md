@@ -8,12 +8,10 @@
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
 </a> 
 <br />
-<br />
 
 Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering student** 🚀 from India, currently, I'm a Student working on various projets and trying to figure out stuff.
 
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -29,6 +27,7 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
 </a> 
 Working on a website to show all my major works
+
 ____________________________________________________
 
 Knowledge:
