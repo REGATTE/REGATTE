@@ -46,6 +46,7 @@ Knowledge:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat-square&logo=Arduino)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=RaspberryPi)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA_JETSON-green?style=flat-square&logo=Nvidia)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
