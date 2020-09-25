@@ -49,6 +49,7 @@ Knowledge:
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?style=flat-square&logo=Arduino)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=Raspberry)
 ![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
+![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
