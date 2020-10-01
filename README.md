@@ -17,7 +17,7 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 - 👨🏽‍💻 I’m currently a couch potato trying new things and trying to forge a path.
 - 🌱 I’m currently learning ROS; 
-- 🤔 My interests are with ML, Image Processing, Robotics,....;
+- 🤔 My interests are with ML, Image Processing, Robotics;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 
