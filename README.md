@@ -51,5 +51,9 @@ Knowledge:
 ![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 
+<br />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=REGATTE)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=REGATTE&hide=TeX&layout=compact&theme=dracula&count_private=true)
