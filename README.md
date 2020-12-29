@@ -36,6 +36,7 @@ Knowledge:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=VueJS)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
