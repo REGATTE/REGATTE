@@ -24,7 +24,7 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 <a href="https://regatte.github.io/N-O-N-C-E/index.html">
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
 </a> 
-Working on a website to show all my major works
+A blog sort of website,which holds interesting builds that i've gathered in a while.
 
 _________________________________________________
 
