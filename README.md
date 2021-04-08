@@ -15,11 +15,11 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on building a delf-driving car on ROS and LIDAR.
+- 👨🏽‍💻 I’m currently working on Image Processing Projects leading to Autonomous Tech.
 - 🌱 I’m currently learning ROS; 
 - 🤔 My interests are with ML, Image Processing, Robotics;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 I'd love to work with you!!;
 
 <a href="https://regatte.github.io/N-O-N-C-E/index.html">
   <img align="left" alt="Ashok's Website" width="50px" src="https://img.shields.io/badge/-NONCE-black?style=flat-square" />
