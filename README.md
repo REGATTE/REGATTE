@@ -9,7 +9,8 @@
 
 Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering student** 🚀 from India, currently, I'm a Student working on various projets and trying to figure out stuff.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+ <img align="right" alt="GIF" src="https://github.com/REGATTE/REGATTE/blob/master/profile-joined-github-dark.svg" />
 
 **Talking about Personal Stuffs:**
 
