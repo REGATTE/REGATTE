@@ -14,9 +14,9 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Image Processing Projects leading to Autonomous Tech.
-- 🌱 I’m currently learning ROS; 
-- 🤔 My interests are with ML, Image Processing, Robotics;
+- 👨🏽‍💻 I’m currently working on Autonomous Tech company building drones for various services..
+- 🌱 I’m currently gaining experience at a deeper dive in corporate organisations.; 
+- 🤔 My interests are with ML, Image Processing, Robotics with ROS;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 I'd love to work with you!!;
 
