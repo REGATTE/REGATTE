@@ -28,7 +28,7 @@ Knowledge:
 ![UBUNTU](https://img.shields.io/badge/-UBUNTU-purple?style=flat-square&logo=Ubuntu)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
-![QT-QML](https://img.shields.io/badge/-QT_QML-E34A86?style=flat-square&logo=java) 
+![QT-QML](https://img.shields.io/badge/-QT_QML-E34A86?style=flat-square) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=VueJS)
