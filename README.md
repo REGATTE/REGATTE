@@ -5,6 +5,7 @@
 [![ICloud Badge](https://img.shields.io/badge/-ashok.kumarj@icloud.com-gray?style=flat-square&logo=apple&logoColor=white&link=mailto:ashok.kumarj@icloud.com)](mailto:ashok.kumarj@icloud.com)
 [![Website Badge](https://img.shields.io/badge/-JASHOKKUMAR.TECH-black?style=flat-square)](https://jashokkumar.tech)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FREGATTE&count_bg=%23000000&title_bg=%23FF5454&icon=coderwall.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br />
 
 Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering student** 🚀 from India, currently, I'm a Student working on various projets and trying to figure out stuff.
