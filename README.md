@@ -14,8 +14,7 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently working at [UAVTECH Pvt Ltd](https://uavtech.ai); 
-- 👨🏽‍💻 I’m currently working on Autonomous Tech company building drones for various services..
+- 👨🏽‍💻 I’m currently working on Autonomous Tech, worked at [UAV TECH](uavtech.ai) for autonomous drones and now work on becoming a Sensor Fusion Engineer.
 - 🤔 My interests are with ML, Image Processing, Robotics with ROS;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - I'm a **MAC CERTIFIED PROFESSIONAL**
