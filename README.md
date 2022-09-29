@@ -15,6 +15,7 @@ Hi there, I'm **Ashok Kumar**, a **ROS Enthusiast** and a **Software Engineering
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Autonomous Tech, worked at [UAV TECH](uavtech.ai) for autonomous drones and now work on becoming a Sensor Fusion Engineer.
+- ⭐️ Currently working on [AVYANA](https://avyana.tech), an open-source self-driving car project with ROS2. [GITHUB](https://github.com/Avyana-Tech)
 - 🤔 My interests are with ML, Image Processing, Robotics with ROS;
 - 💼 I’ve Graduated in 2022 with a Bachelor's degree in Computer Science from Bennett University, India and now applying for Masters;
 - I'm a **MAC CERTIFIED PROFESSIONAL**
